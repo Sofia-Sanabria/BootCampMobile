@@ -18,7 +18,7 @@ class Reloj {
         self.minutos = 00
         self.segundos = 00
     }
-    // Constructor con tres parametros
+    // Constructor con tres parametros enteros
     init(hora:Int, minutos:Int, segundos:Int) {
         self.hora = hora % 24
         self.minutos = minutos % 60
