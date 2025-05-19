@@ -13,8 +13,9 @@ Este repositorio contiene las tareas y ejercicios prácticos realizados por **So
 ## 🛠️ Tecnologías utilizadas
 
 - Swift
+- Lenguaje C
 - Git & GitHub
-- Algoritmos y estructuras de datos
+
 
 📌 *Este repositorio se actualiza a medida que se agregan nuevas tareas del bootcamp.*
 
