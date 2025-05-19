@@ -1,6 +1,15 @@
+//
+// GitHub
+// Ejercicios realizados por Sofia Sanabria
+//
+// Ejercicios de Swift 001
+//
+//  Created by Bootcamp on 2025-05-16.
+//
+
+
 /** Ejercicio 1: Declara dos variables numéricas (con el valor que desees), muestra por consola la suma, resta, multiplicación, división y módulo (resto de la división). */
-//comentario
-//comentario2
+
 var numero1 = 16
 var numero2 = 4
 
