@@ -1,3 +1,13 @@
+//
+// GitHub
+// Ejercicio realizado por Sofia Sanabria
+//
+// Ejercicio Vacas y Toros
+//
+// Created by Bootcamp on 2025-05-12.
+//
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
