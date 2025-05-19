@@ -2,7 +2,7 @@
 //  GitHub
 //  Clases realizadas por Sofia Sanabria
 //
-//  Clases_Swift_Reloj
+//  Clases Reloj en Swift
 //
 //  Created by Bootcamp on 2025-05-16.
 //
