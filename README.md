@@ -1,1 +1,22 @@
+# Sofía Sanabria - Bootcamp de Programación
+
+Este repositorio contiene las tareas y ejercicios prácticos realizados por **Sofía Sanabria** en el marco del bootcamp de programación.
+
+## SofIa Sanabria - Bootcamp de Programación
+
+| Nombre del archivo              | Descripción                                                | Fecha       |
+|--------------------------------|------------------------------------------------------------|-------------|
+| `TareaBootCampSofi`            | Tarea del juego **Vacas y Toros**                          | 12/05/2025  |
+| `Ejercicio1_SofiaSanabria`     | Ejercitario 1                                              | 13/05/2025  |
+| `Ejercicio2_SofiaSanabria`     | Ejercitario 2                                              | 13/05/2025  |
+| `ClasesSwift_SofiaSanabria`    | Tarea del **Reloj** de la clase Swift                      | 16/05/2025  |
+| `nextBig_SofiaSanabria`        | Tarea de **Siguiente Número Más Grande**                   | 19/05/2025  |
+
+## 🛠️ Tecnologías utilizadas
+
+- Swift
+- Git & GitHub
+- Algoritmos y estructuras de datos
+
+📌 *Este repositorio se actualiza a medida que se agregan nuevas tareas del bootcamp.*
 
