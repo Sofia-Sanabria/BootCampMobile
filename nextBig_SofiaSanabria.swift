@@ -1,6 +1,8 @@
 //
-//  main.swift
-//  FuncionNextBig
+//  GitHub
+//  Ejercicio realizado por Sofia Sanabria
+//
+//  Ejercicio 3 NextBig
 //
 //  Created by Bootcamp on 2025-05-19.
 //
