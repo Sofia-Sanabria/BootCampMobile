@@ -2,8 +2,6 @@
 
 Este repositorio contiene las tareas y ejercicios prácticos realizados por **Sofía Sanabria**
 
-## SofIa Sanabria - Bootcamp de Programación
-
 | Nombre del archivo              | Descripción                                                | Fecha       |
 |--------------------------------|------------------------------------------------------------|-------------|
 | `TareaBootCampSofi`            | Tarea del juego **Vacas y Toros**                          | 12/05/2025  |
