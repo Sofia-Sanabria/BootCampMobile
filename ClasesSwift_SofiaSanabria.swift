@@ -10,6 +10,7 @@
 import Foundation
 
 class Reloj {
+
     private var hora: Int
     private var minutos: Int
     private var segundos: Int
@@ -142,7 +143,8 @@ class Reloj {
 
 class DemoReloj {
     static func main() {
-        
+        print("¡Hola! Bienvenidos al reloj.")
+
         print("Ingrese los Segundos desde la media noche")
         
         // Lee entrada del usuario, convierte a entero, valida rango de segundo, si algo no se cumple, retorna
