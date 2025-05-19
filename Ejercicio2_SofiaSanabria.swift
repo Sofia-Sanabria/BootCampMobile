@@ -1,8 +1,10 @@
 //
-//  main.swift
-//  Ejercitario2SwiftSofi
+// GitHub
+// Ejercicios realizados por Sofia Sanabria
 //
-//  Created by Bootcamp on 2025-05-13.
+// Ejercicios de Swift 002
+//
+// Created by Bootcamp on 2025-05-13.
 //
 
 import Foundation
@@ -74,7 +76,7 @@ if palindromo == palabra {
 }
 print("\n")
 
-/** Dada una cadena de caracteres (String) de longitud desconocida que tiene solamente dígitos,
+/** Ejercicio 4: Dada una cadena de caracteres (String) de longitud desconocida que tiene solamente dígitos,
  crear un array de N elementos (donde N es el tamaño de la cadena) que tenga cada uno de los
  valores numéricos de los dígitos. */
 
