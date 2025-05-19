@@ -25,12 +25,6 @@ print( "multiplicacion: ", multiplicacion)
 print( "division: ", divicion)
 print( "modulo ", modulo )
 
-// suma:  20
-// resta:  12
-// multiplicacion:  64
-// division:  4
-// modulo  4
-
 print("\n")
 
 /** Ejercicio 2: Declara 2 variables numéricas (con el valor que desees), he indica cual es mayor de los dos. Si son iguales indicarlo también. Ve cambiando los valores para comprobar que funciona. */
