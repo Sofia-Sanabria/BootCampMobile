@@ -1,6 +1,6 @@
-# Sofía Sanabria - Bootcamp de Programación
+# Sofía Sanabria - Bootcamp Mobile
 
-Este repositorio contiene las tareas y ejercicios prácticos realizados por **Sofía Sanabria** en el marco del bootcamp de programación.
+Este repositorio contiene las tareas y ejercicios prácticos realizados por **Sofía Sanabria**
 
 ## SofIa Sanabria - Bootcamp de Programación
 
