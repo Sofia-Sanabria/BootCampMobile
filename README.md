@@ -1,22 +1,46 @@
-# Sofía Sanabria - Bootcamp Mobile
+# BootCampMobile - Sofía Sanabria
 
-Este repositorio contiene las tareas y ejercicios prácticos realizados por **Sofía Sanabria**
+Este repositorio contiene una serie de ejercicios y desafíos realizados en el marco del Bootcamp Mobile. Los ejercicios están implementados principalmente en **Swift**, con uno en **C**, y cada archivo aborda una problemática distinta. A continuación, se describen brevemente los contenidos disponibles.
 
-| Nombre del archivo              | Descripción                                                | Fecha       |
-|--------------------------------|------------------------------------------------------------|-------------|
-| `TareaBootCampSofi`            | Tarea del juego **Vacas y Toros**                          | 12/05/2025  |
-| `Ejercicio1_SofiaSanabria`     | Ejercitario 1                                              | 13/05/2025  |
-| `Ejercicio2_SofiaSanabria`     | Ejercitario 2                                              | 13/05/2025  |
-| `ClasesSwift_SofiaSanabria`    | Tarea del **Reloj** de la clase Swift                      | 16/05/2025  |
-| `nextBig_SofiaSanabria`        | Tarea de **Siguiente Número Más Grande**                   | 19/05/2025  |
-| `JugadasGenerala_SofiaSanabria`| Tarea de detección de jugadas de **Generala**              | 20/05/2025  |
+## 📁 Archivos del proyecto
 
-## 🛠️ Tecnologías utilizadas
+### 🟨 Swift
 
-- Swift
-- Lenguaje C
-- Git & GitHub
+- `Ejercicio1_SofiaSanabria.swift`:  
+  Ejercicio introductorio de Swift 001. Contiene conceptos básicos como variables, condiciones y funciones simples.
 
+- `Ejercicio2_SofiaSanabria.swift`:  
+  Ejercicio 002. Continuación del anterior, incluyendo estructuras de control y colecciones.
 
-📌 *Este repositorio se actualiza a medida que se agregan nuevas tareas del bootcamp.*
+- `Generala_SofiaSanabria.swift`:  
+  Identifica jugadas del popular juego de mesa "Generala". Implementa lógica para detectar pares, trío, escalera, full, póker y generala.
+
+- `NextBig_SofiaSanabria.swift`:  
+  Algoritmo que devuelve el siguiente número mayor posible a partir de la reordenación de los dígitos de un número dado.
+
+- `Reloj_SofiaSanabria.swift`:  
+  Clase que devuelve una hora determinada a partir de una cantidad de minutos o segundos. Ejercicio de orientación a objetos.
+
+### 🟪 C
+
+- `VacasyToros_SofiaSanabria.c`:  
+  Implementación del clásico juego "Vacas y Toros". Se compara una secuencia numérica ingresada por el usuario con una generada aleatoriamente y se indican coincidencias exactas (toros) y parciales (vacas).
+
+### 📄 Otros
+
+- `.gitignore`:  
+  Archivo que especifica los archivos y carpetas que deben ser ignorados por Git (por ejemplo, `.DS_Store`).
+
+- `README.md`:  
+  Este archivo, con la descripción del proyecto.
+
+## 📌 Notas
+
+- El archivo `Reloj.swift` ha sido reemplazado por `Reloj_SofiaSanabria.swift` y puede ser eliminado del repositorio si ya no es necesario.
+
+## 💡 Autor
+
+Desarrollado por **Sofía Sanabria** como parte del entrenamiento en desarrollo móvil con Swift.
+
+---
 
