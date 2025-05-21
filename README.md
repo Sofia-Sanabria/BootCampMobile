@@ -9,6 +9,7 @@ Este repositorio contiene las tareas y ejercicios prácticos realizados por **So
 | `Ejercicio2_SofiaSanabria`     | Ejercitario 2                                              | 13/05/2025  |
 | `ClasesSwift_SofiaSanabria`    | Tarea del **Reloj** de la clase Swift                      | 16/05/2025  |
 | `nextBig_SofiaSanabria`        | Tarea de **Siguiente Número Más Grande**                   | 19/05/2025  |
+| `JugadasGenerala_SofiaSanabria`| Tarea de detección de jugadas de **Generala**              | 20/05/2025  |
 
 ## 🛠️ Tecnologías utilizadas
 
